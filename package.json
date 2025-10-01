@@ -1,0 +1,29 @@
+{
+  "name": "instantfixer",
+  "version": "1.0.0",
+  "description": "InstantFixer - Your Ultimate Local Helper Platform",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-spring/web": "^9.7.3",
+    "@react-three/drei": "^9.77.10",
+    "@react-three/fiber": "^8.13.5",
+    "@react-three/xr": "^5.7.1",
+    "next": "latest",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "styled-components": "^6.0.0",
+    "three": "^0.154.0"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest"
+  }
+}
